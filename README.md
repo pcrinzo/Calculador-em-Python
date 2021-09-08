@@ -1,2 +1,2 @@
-# Calculador-em-Python
-Versões de Calculadora em Pythom 
+# Calculadora|Python
+Versões de Calculadora em Python 
